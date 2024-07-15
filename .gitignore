@@ -163,3 +163,4 @@ cython_debug/
 
 # Mac related files
 *.DS_Store
+*/*.DS_Store
